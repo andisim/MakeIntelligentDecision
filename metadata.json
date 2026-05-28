@@ -1,0 +1,6 @@
+{
+  "name": "El desempate",
+  "description": "Herramienta inteligente de toma de decisiones para comparar opciones, analizar pros y contras, y realizar análisis FODA interactivos guiados por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
